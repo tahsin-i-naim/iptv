@@ -1,37 +1,33 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",BTV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
+https://www.btvlive.gov.bd/streams/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=1920&q=75" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",BTV NEWS
 https://www.btvlive.gov.bd/streams/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/300px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Somoy TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/512px-Jamuna_TV_logo.svg.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Jamuna TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/master.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Banglavision TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/51/1/bangla-vision-tv-channel-logo-png_seeklogo-513051.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Banglavision TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",NTV TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Deepto TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Channel 24 TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Channel 24 TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/master.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Eakttor TV HD
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Eakttor TV HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/master.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Indepent TV HD
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Indepent TV HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/master.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Boishakhi Tv
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/640px-Boishakhi_TV_logo.svg.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",INDEPENDENT TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Movie Bangla TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Movie Bangla TV
 http://38.96.178.201/live/NTV/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",NTV
-http://38.96.178.201/live/ATNBangla/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="" :http-referrer="" :http-user-agent="",
+
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",ATN Bangla
 http://38.96.178.201/live/SATV/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",SATV
-http://38.96.178.201/live/BanglaVision/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Banglavision
 http://38.96.178.201/live/BanglaVision/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Nexus TV HD
 http://38.96.178.201/live/NexusTV/index.m3u8
@@ -39,10 +35,16 @@ http://38.96.178.201/live/NexusTV/index.m3u8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",NTV
+http://38.96.178.201/live/ATNBangla/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Banglavision
+http://38.96.178.201/live/BanglaVision/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",NEWS 24 HD
 http://xtv.ooo:8080/danyear12/am809100/245903
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",Channel 24
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="BANGLADESHI" :http-referrer="" :http-user-agent="",INDEPENDENT TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="INFO" :http-referrer="" :http-user-agent="",Discovery
 https://xfireflix.fun/test/live.php?id=77e72f2ba472&e=.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="KIDS" :http-referrer="" :http-user-agent="",POGO
@@ -163,9 +165,3 @@ https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/m
 https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/db4ace6c-88cc-44c9-9407-e3075a7dc82b/2.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="" :http-referrer="" :http-user-agent="",KIDDO-ENG
 https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/c195667c-508f-4836-96d2-76d6fd0e4375/2.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="" :http-referrer="" :http-user-agent="",
-
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="" :http-referrer="" :http-user-agent="",
-
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="" :http-referrer="" :http-user-agent="",
-
